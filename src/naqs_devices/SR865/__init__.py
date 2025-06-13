@@ -15,3 +15,5 @@
 
 # # For backwards compatibility with old experiment scripts:
 # SR865 = deprecated_import_alias("naqs_devices.SR865.labscript_device.SR865")
+
+__version__ = '0.1.0'
